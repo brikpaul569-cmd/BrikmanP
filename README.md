@@ -56,7 +56,7 @@
 Fusiones de sonido, diseño artístico oscuro y cinemático, y narrativa digital:
 
 * **NeuroFrame:** Álbum de música electrónica enfocado en el *Progressive House*, atmósferas nocturnas y estéticas cyberpunk. Diseñado en FL Studio y Serum.
-* **Pedazos de Piel:** Proyecto musical de 9 canciones que transitan entre el Hip-Hop underground y tintes indie urbanos, explorando líricas profundas de tristeza y esperanza.
+* **Pedazos de Piel:** Proyecto musical de 9 canciones creado en 2026 y programado para lanzarse el 17 de julio. Es una transición fluida y conceptual entre el Hip-Hop underground y el Progressive House, explorando líricas profundas de tristeza y esperanza.
 
 ---
 
