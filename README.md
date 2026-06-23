@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://github.com/brikpaul569-cmd/BrikmanP/blob/main/banner.png?raw=true" 
+    src="https://github.com/brikpaul569-cmd/brikpaul569-cmd/blob/main/banner_new.png?raw=true" 
     alt="Brikman Paul Morales - Portafolio Banner" 
     width="100%" 
     style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);"
