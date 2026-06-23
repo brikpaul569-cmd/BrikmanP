@@ -1,9 +1,9 @@
 <p align="center">
   <img 
-    src="https://github.com/BrikmanP/BrikmanP/blob/main/nueva.png?raw=true" 
-    alt="Brikman Paul Morales - Portafolio" 
-    width="550" 
-    style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5); filter: brightness(1.05) contrast(1.1);"
+    src="https://github.com/brikpaul569-cmd/BrikmanP/blob/main/banner.png?raw=true" 
+    alt="Brikman Paul Morales - Portafolio Banner" 
+    width="100%" 
+    style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);"
   />
 </p>
 
